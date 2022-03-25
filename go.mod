@@ -1,3 +1,3 @@
-module github/fosmjo/hello
+module github.com/fosmjo/hello
 
 go 1.18
